@@ -1,6 +1,6 @@
 
 ######### Installation guide of Tensorflow+keras3 in R's cloud service ###########
-##### Run these exact lines of code in an R-project on Posit Cloud (https://posit.cloud.com)
+##### Run these exact lines of code in an R-project on Posit Cloud
 
 #  Install R packages
 install.packages("reticulate")
