@@ -1,8 +1,8 @@
-\# Contents
+# Contents
 
 
 
-\## Assignment 3
+## Assignment 3
 
 
 
@@ -10,7 +10,7 @@ Train and test split for the assignment
 
 
 
-\## Assignment 4
+## Assignment 4
 
 
 
@@ -18,7 +18,7 @@ Installation guide for Tensorflow and Keras3 in Posit Cloud.
 
 
 
-\## Computer lab 4
+## Computer lab 4
 
 
 
