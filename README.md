@@ -22,9 +22,5 @@ Installation guide for Tensorflow and Keras3 in Posit Cloud.
 
 
 
-The data set (abalone.csv) used for the demo 
-
-
-
-
+The data set (abalone.csv) used for the demo
 
