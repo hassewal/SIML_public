@@ -1,8 +1,30 @@
-Contains:
+\# Contents
 
-Train and test split for spring Statistical Inference and Machine Learning Assignment 3
+
+
+\## Assignment 3
+
+
+
+Train and test split for the assignment
+
+
+
+\## Assignment 4
 
 
 
 Installation guide for Tensorflow and Keras3 in Posit Cloud.
+
+
+
+\## Computer lab 4
+
+
+
+The data set (abalone.csv) used for the demo 
+
+
+
+
 
