@@ -24,3 +24,11 @@ Installation guide for Tensorflow and Keras3 in Posit Cloud.
 
 The data set (abalone.csv) used for the demo
 
+
+
+\## Data for random forest
+
+
+
+heart disease is to train a random forest model
+
